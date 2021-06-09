@@ -62,24 +62,3 @@ jobs:
           publish_dir: "site/status-page/__sapper__/export/"
           user_name: "Upptime Bot"
           user_email: "73812536+upptime-bot@users.noreply.github.com"
-
-      - name: Deploy static to Tencent CloudBase
-        id: deployStatic
-        uses: TencentCloudBase/cloudbase-action@v2
-        with:
-          secretId: ${{ secrets.TENCENTCLOUD_CLOUDBASE_SECRET_ID }}
-          secretKey: ${{ secrets.TENCENTCLOUD_CLOUDBASE_SECRET_KEY }}
-          envId: ${{ secrets.ENV_ID }}
-
-      - name: Setup Serverless
-        uses: teakowa/setup-serverless@v2
-        with:
-          provider: tencent
-        env:
-          TENCENT_APPID: ${{ secrets.TENCENTCLOUD_APP_ID }}
-          TENCENT_SECRET_ID: ${{ secrets.TENCENTCLOUD_SLS_SECRET_ID }}
-          TENCENT_SECRET_KEY: ${{ secrets.TENCENTCLOUD_SLS_SECRET_KEY}}
-          SERVERLESS_PLATFORM_VENDOR: tencent
-
-      - name: Refresh CDN
-        run: sls deploy
