@@ -49,11 +49,11 @@ i18n:
   pastIncidents: 上一个事件
   pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
   liveStatus: 实时状态
-  overallUptime: "Overall uptime: $UPTIME"
+  overallUptime: "总体正常运行时间: $UPTIME"
   overallUptimeTitle: 总体正常运行时间
   averageResponseTime: "平均响应时间: $TIMEms"
   averageResponseTimeTitle: 平均响应
-  sevelDayResponseTime: 7-day response time
+  sevelDayResponseTime: 7 天响应时间
   responseTimeMs: 响应时间 (ms)
   up: Up
   down: Down
@@ -61,7 +61,7 @@ i18n:
   ms: ms
   loading: 加载中
   navGitHub: GitHub
-  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  footer: 由 [Upptime](https://upptime.js.org) 强力驱动
   rateLimitExceededTitle: Rate limit exceedeed
   rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
   rateLimitExceededWhatDoesErrorMean: What does this error mean?
