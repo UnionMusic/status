@@ -1,0 +1,17 @@
+app: status-website
+stage: prod
+component: cdn
+name: cdn
+
+inputs:
+  area: global
+  domain: status.lianhe.art
+  origin:
+    origins:
+      - status-lianhe-art-9eepgg39dadfc5-1254054744.tcloudbaseapp.com
+    originType: domain
+    originPullProtocol: https
+  onlyRefresh: true
+  refreshCdn:
+    urls:
+      - https://status.lianhe.art/
