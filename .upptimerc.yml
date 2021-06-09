@@ -35,20 +35,20 @@ status-website:
 i18n:
   activeIncidents: Active Incidents
   allSystemsOperational: 所有系统与服务正常运行
-  incidentReport: "Incident #$NUMBER report →"
+  incidentReport: "事件 #$NUMBER 报告 →"
   activeIncidentSummary: Opened at $DATE with $POSTS posts
   incidentTitle: 事件 $NUMBER 详情
   incidentDetails: 事件详情
-  incidentFixed: 已修复
+  incidentFixed: 已恢复
   incidentOngoing: 正在处理
   incidentOpenedAt: Opened at
   incidentClosedAt: Closed at
   incidentSubscribe: 订阅更新
-  incidentViewOnGitHub: View on GitHub
-  incidentCommentSummary: Posted at $DATE by $AUTHOR
-  incidentBack: ← 返回事件
+  incidentViewOnGitHub: 在 GitHub 上查看
+  incidentCommentSummary: 由 $AUTHOR 在 $DATE
+  incidentBack: ← 返回
   pastIncidents: 上一个事件
-  pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
+  pastIncidentsResolved: 在 $MINUTES 分钟内解决 with $POSTS posts
   liveStatus: 实时状态
   overallUptime: "总体正常运行时间: $UPTIME"
   overallUptimeTitle: 总体正常运行时间
@@ -72,7 +72,7 @@ i18n:
   errorTitle: An error occurred
   errorIntro: An error occurred in trying to get the latest status details.
   errorText: You can try again in a few moments.
-  errorHome: Go to the homepage
+  errorHome: 返回
   pastScheduledMaintenance: Past Scheduled Maintenance
   scheduledMaintenance: Scheduled Maintenance
   scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
