@@ -10,6 +10,11 @@ sites:
     url: https://s2.16345.net/css/v2/icon.css
   - name: 图片资源 CDN
     url: https://img.16345.net/images/lianhe-g.png
+  - name: LIANHE.ART 数字版权管理平台
+    url: https://d.lianhe.art/account/login
+  - name: LIANHE.ART 管理系统
+    url: $LIANHE_ART_CP
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
