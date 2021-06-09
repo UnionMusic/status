@@ -23,9 +23,9 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.lianhe.art
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: LIANHE.ART 服务状态
+  themeUrl: https://s2.16345.net/css/status/custom-theme.css
+  logoUrl: https://img.16345.net/logo/lianhe.art-01.svg
+  name: 服务状态
   navbar:
     - title: Status
       href: /
