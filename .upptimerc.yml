@@ -15,6 +15,9 @@ sites:
   - name: LIANHE.ART 管理系统
     url: $LIANHE_ART_CP
 
+notifications:
+  - type: slack
+    channel: CJH801E2K
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
