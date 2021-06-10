@@ -84,6 +84,8 @@ i18n:
   incidentCompleted: Completed
   incidentScheduled: Scheduled
 
+runner: [self-hosted]
+
 user-agent: uni-ci-bot
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
