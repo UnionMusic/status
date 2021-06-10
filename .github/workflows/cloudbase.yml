@@ -2,8 +2,9 @@ name: Cloudbase CI
 on:
   schedule:
     - cron: "0 1 * * *"
-  push:
-  workflow_dispatch:
+  workflow_run:
+    workflows: [ "Uptime CI" ]
+    types: [ completed ]
 jobs:
   release:
     name: Build and deploy site
