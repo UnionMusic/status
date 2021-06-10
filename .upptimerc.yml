@@ -31,6 +31,14 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  scripts:
+    - src: https://www.googletagmanager.com/gtag/js?id=UA-177377361-2
+      async: true
+  js: "window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-177377361-2');"
 
 i18n:
   activeIncidents: Active Incidents
