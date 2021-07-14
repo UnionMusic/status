@@ -48,19 +48,19 @@
     "url": "https://d.lianhe.art/account/login",
     "icon": "https://favicons.githubusercontent.com/d.lianhe.art",
     "slug": "lianhe-art",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 530,
-    "timeDay": 1631,
-    "timeWeek": 512,
-    "timeMonth": 361,
-    "timeYear": 530,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "96.99%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.91%",
+    "time": 527,
+    "timeDay": 1279,
+    "timeWeek": 494,
+    "timeMonth": 358,
+    "timeYear": 527,
     "dailyMinutesDown": {
-      "2021-07-14": 0
+      "2021-07-14": 43
     }
   },
   {
@@ -68,19 +68,19 @@
     "url": "$LIANHE_ART_CP",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "lianhe-art",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 530,
-    "timeDay": 1631,
-    "timeWeek": 512,
-    "timeMonth": 361,
-    "timeYear": 530,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "96.99%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.91%",
+    "time": 527,
+    "timeDay": 1279,
+    "timeWeek": 494,
+    "timeMonth": 358,
+    "timeYear": 527,
     "dailyMinutesDown": {
-      "2021-07-14": 0
+      "2021-07-14": 43
     }
   }
 ]
