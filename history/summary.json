@@ -48,35 +48,39 @@
     "url": "https://d.lianhe.art/account/login",
     "icon": "https://favicons.githubusercontent.com/d.lianhe.art",
     "slug": "lianhe-art",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 492,
-    "timeDay": 354,
-    "timeWeek": 250,
-    "timeMonth": 297,
-    "timeYear": 492,
-    "dailyMinutesDown": {}
+    "time": 530,
+    "timeDay": 1631,
+    "timeWeek": 512,
+    "timeMonth": 361,
+    "timeYear": 530,
+    "dailyMinutesDown": {
+      "2021-07-14": 0
+    }
   },
   {
     "name": "LIANHE.ART 管理系统",
     "url": "$LIANHE_ART_CP",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "lianhe-art",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 492,
-    "timeDay": 354,
-    "timeWeek": 250,
-    "timeMonth": 297,
-    "timeYear": 492,
-    "dailyMinutesDown": {}
+    "time": 530,
+    "timeDay": 1631,
+    "timeWeek": 512,
+    "timeMonth": 361,
+    "timeYear": 530,
+    "dailyMinutesDown": {
+      "2021-07-14": 0
+    }
   }
 ]
