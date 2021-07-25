@@ -4,10 +4,10 @@
     "url": "https://s2.16345.net/css/v2/icon.css",
     "icon": "https://favicons.githubusercontent.com/s2.16345.net",
     "slug": "cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1262,
@@ -16,6 +16,7 @@
     "timeMonth": 1083,
     "timeYear": 1262,
     "dailyMinutesDown": {
+      "2021-07-25": 1,
       "2021-07-13": 0,
       "2021-06-23": 11,
       "2021-06-09": 16
@@ -26,10 +27,10 @@
     "url": "https://img.16345.net/images/lianhe-g.png",
     "icon": "https://favicons.githubusercontent.com/img.16345.net",
     "slug": "cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1262,
@@ -38,6 +39,7 @@
     "timeMonth": 1083,
     "timeYear": 1262,
     "dailyMinutesDown": {
+      "2021-07-25": 1,
       "2021-07-13": 0,
       "2021-06-23": 11,
       "2021-06-09": 16
