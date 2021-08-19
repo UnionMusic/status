@@ -57,13 +57,13 @@
     "icon": "https://favicons.githubusercontent.com/d.lianhe.art",
     "slug": "lianhe-art",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.84%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.84%",
     "time": 463,
-    "timeDay": 482,
+    "timeDay": 483,
     "timeWeek": 506,
     "timeMonth": 442,
     "timeYear": 463,
@@ -71,7 +71,7 @@
       "2021-08-19": 0,
       "2021-08-18": 0,
       "2021-08-17": 0,
-      "2021-08-16": 171
+      "2021-08-16": 159
     }
   },
   {
@@ -80,13 +80,13 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "lianhe-art",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.84%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.84%",
     "time": 463,
-    "timeDay": 482,
+    "timeDay": 483,
     "timeWeek": 506,
     "timeMonth": 442,
     "timeYear": 463,
@@ -94,7 +94,7 @@
       "2021-08-19": 0,
       "2021-08-18": 0,
       "2021-08-17": 0,
-      "2021-08-16": 171
+      "2021-08-16": 159
     }
   }
 ]
