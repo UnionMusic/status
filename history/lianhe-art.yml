@@ -1,7 +1,7 @@
-url: $LIANHE_ART_CP
-status: up
-code: 200
-responseTime: 335
-lastUpdated: 2021-09-03T20:33:29.674Z
+url: https://d.lianhe.art/account/login
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2021-09-03T20:46:37.239Z
 startTime: Wed Jun 09 2021 16:03:28 GMT+0800 (China Standard Time)
 generator: Upptime <https://github.com/upptime/upptime>
