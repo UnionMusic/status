@@ -4,7 +4,7 @@
     "url": "https://s2.16345.net/css/v2/icon.css",
     "icon": "https://favicons.githubusercontent.com/s2.16345.net",
     "slug": "cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -22,7 +22,7 @@
     "url": "https://img.16345.net/images/lianhe-g.png",
     "icon": "https://favicons.githubusercontent.com/img.16345.net",
     "slug": "cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 395,
-    "timeDay": 325,
+    "time": 394,
+    "timeDay": 323,
     "timeWeek": 385,
     "timeMonth": 387,
-    "timeYear": 395,
+    "timeYear": 394,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 395,
-    "timeDay": 325,
+    "time": 394,
+    "timeDay": 323,
     "timeWeek": 385,
     "timeMonth": 387,
-    "timeYear": 395,
+    "timeYear": 394,
     "dailyMinutesDown": {}
   }
 ]
