@@ -1,7 +1,7 @@
-url: https://d.lianhe.art/account/login
+url: $LIANHE_ART_CP
 status: up
 code: 200
-responseTime: 201
-lastUpdated: 2021-09-07T23:03:50.792Z
+responseTime: 391
+lastUpdated: 2021-09-07T23:03:51.476Z
 startTime: Wed Jun 09 2021 16:03:28 GMT+0800 (China Standard Time)
 generator: Upptime <https://github.com/upptime/upptime>
